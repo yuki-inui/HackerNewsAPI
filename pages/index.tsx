@@ -23,8 +23,8 @@ const Home: NextPage = () => {
           story
         </p>
         <p className={styles.any}>
-          FDA urges patch of Illumina devices with three<br>
-          critical flaws ranked 10 in severity(scmagazine.com)</br>
+          {`FDA urges patch of Illumina devices with three\n
+          critical flaws ranked 10 in severity(scmagazine.com)`}
         </p>
 
         <section>
@@ -32,9 +32,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Vectorized and performance-</br>
-            <br>portable Quickort</br>
-            (googleblog.com)
+            {'Vectorized and performance-\nportable Quickort\n(googleblog.com)'}
           </p>
           <p className={styles.any}>
             by slackerIII 22 hours ago
@@ -46,9 +44,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-          <br>The children of atomic bomb</br>
-          <br>survivors:A genetic study</br>
-          (nih.gov)
+          {'The children of atomic bomb\nsurvivors:A genetic study\n`(nih.gov)'}
           </p>
           <p className={styles.any}>
             by bryarasmussen 22 hours ago
@@ -60,9 +56,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Japan tested a giant turbine</br>
-            <br>that generates electoricity using</br>
-            <br>deep ocean current...</br>
+            {'Japan tested a giant turbine\nthat generates electoricity using\ndeep ocean current...'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -74,9 +68,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Question candidates can ask</br>
-            <br>about equity compensation</br>
-            <br>(holloway.com)</br>
+            {'Question candidates can ask\nabout equity compensation\n(holloway.com)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -88,9 +80,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Painless desktop containers</br>
-            <br>for everyday development</br>
-            <br>(orion3.space)</br>
+            {'Painless desktop containers\nfor everyday development\n(orion3.space)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -102,9 +92,7 @@ const Home: NextPage = () => {
             Ask
           </p>
           <p className={styles.any}>
-            <br>what is the best jurisdiction</br>
-            <br>for insternationally distributed</br>
-            <br>teams?</br>
+            {'what is the best jurisdiction\nfor insternationally distributed\nteams?'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -116,9 +104,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>DDR5 RAM prices crashed by</br>
-            <br>20% in May</br>
-            <br>(tech4gamers.com)</br>
+            {'DDR5 RAM prices crashed by\n20% in May\n(tech4gamers.com)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -130,9 +116,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Albert - open-source keyboard</br>
-            <br>launcher for linux</br>
-            <br>(albertlauncher.github.io)</br>
+            {'Albert - open-source keyboard\nlauncher for linux\n(albertlauncher.github.io)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -144,8 +128,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>The power C compiler</br>
-            <br>(mixsoftware.com)</br>
+            {'The power C compiler\n(mixsoftware.com)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -157,7 +140,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>What rr does (rr-project.org)</br>
+            What rr does (rr-project.org)
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -169,8 +152,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>UIstein X-BOW inverted bow</br>
-            <br>(ulstein.com)</br>
+            {'UIstein X-BOW inverted bow\n(ulstein.com)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -182,9 +164,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Google alternative that</br>
-            <br>shares revenues with creators -</br>
-            <br>by Ahefs(yep.com)</br>
+            {'Google alternative that\nshares revenues with creators -\nby Ahefs(yep.com)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -196,9 +176,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>In a small trial, drugs seemed</br>
-            <br>to rejuvenate the body`s</br>
-            <br>`epigenetic clock`(2019)</br>
+            {'In a small trial, drugs seemed\nto rejuvenate the body`s\n`epigenetic clock`(2019)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -210,9 +188,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Crabs evolved at least five</br>
-            <br>times from separate group of</br>
-            <br>crustaceans(2021)</br>
+            {'Crabs evolved at least five\ntimes from separate group of\ncrustaceans(2021)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -224,8 +200,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Pixel Art: Common Mistakes</br>
-            <br>(2020) (derekyu.com)</br>
+            {'Pixel Art: Common Mistakes\n(2020) (derekyu.com)'}
           </p>
           <p className={styles.com}>
             by linuxblender 12 minuts ago
@@ -237,9 +212,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Shown HN: Plasmo -a</br>
-            <br>framework for building modern</br>
-            <br>Chrome extensions...</br>
+            {'Shown HN: Plasmo -a\nframework for building modern\nChrome extensions...'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -251,9 +224,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Dear Spotify, can we just get a</br>
-            <br>table of songs?</br>
-            <br>(neil.computer)</br>
+            {'Dear Spotify, can we just get a\ntable of songs?\n(neil.computer)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -265,9 +236,7 @@ const Home: NextPage = () => {
             Story
           </p>
           <p className={styles.any}>
-            <br>Software Automatic Mouth-</br>
-            <br>Tiny Speech Synthesizer</br>
-            <br>(github.com/s-macke)</br>
+            {'Software Automatic Mouth-\nTiny Speech Synthesizer\n(github.com/s-macke)'}
           </p>
           <p className={styles.any}>
             by linuxblender 12 minuts ago
@@ -275,7 +244,223 @@ const Home: NextPage = () => {
         </section>
         <p>More Ask HN </p>
 
+        <p className={styles.any}>The Latest</p>
+        <section>
+          <p className={styles.any}>
+            Story
+          </p>
+          <p className={styles.any}>
+            {'IBM Releases Fully Homorphic\nEncryption Toolkit for macOS and\niOS(2020)(ibm.com)'}
+          </p>
+          <p className={styles.any}>
+            by ddtaylor 0 minuts ago
+          </p>
+        </section>
 
+        <section>
+          <p className={styles.any}>
+            Ask
+          </p>
+          <p className={styles.any}>
+            {'What`s your strategy for reading\ndense books with too much\ninformation?'}
+          </p>
+          <p className={styles.any}>
+            by aerovistae 2 minuts ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Story
+          </p>
+          <p className={styles.any}>
+            {'Inspired by "The Book of Why"\nMicrosoft open-sourced a library\ncalled DoWhy(microsoft.com)'}
+          </p>
+          <p className={styles.any}>
+            by RafelMri 3 minuts ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Story
+          </p>
+          <p className={styles.any}>
+            {'Did you know you can post to\nHacker News from Emacs with eww?'}
+          </p>
+          <p className={styles.any}>
+            by midislack 4 minuts ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Story
+          </p>
+          <p className={styles.any}>
+            {'Orange Pie 800 keyboard PC-A\nRasberry Pi 400 alternative\npowered by RK3399(cnx)'}
+          </p>
+          <p className={styles.any}>
+            by zdw 6 minuts ago
+          </p>
+        </section>
+        <p>More Latest </p>
+
+        <h1 className={styles.any}>
+          Ask HN
+        </h1>
+        <section>
+          <p className={styles.any}>
+            Show
+          </p>
+          <p className={styles.any}>
+            {'Examples of Good Technical\nWriting?'}
+          </p>
+          <p className={styles.any}>
+            by cswenshuo 1 hour ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Show
+          </p>
+          <p className={styles.any}>
+            {'Why don`t podcasts/audiobooks\nhave closed captions for\nmisheard words?'}
+          </p>
+          <p className={styles.any}>
+            by jcubic 1 hour ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Show
+          </p>
+          <p className={styles.any}>
+            {'How to Create Vector Art'}
+          </p>
+          <p className={styles.any}>
+            by ddtailor 12 minuts ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Show
+          </p>
+          <p className={styles.any}>
+            {'Anyone else quickly losing\nconfidence in Amazon'}
+          </p>
+          <p className={styles.any}>
+            by ddtailor 12 minuts ago
+          </p>
+        </section>
+        <p>More Ask HN</p>
+
+        <h1 className={styles.any}>
+          Shown HN
+        </h1>
+        <section>
+          <p className={styles.any}>
+            Show
+          </p>
+          <p className={styles.any}>
+            {'To prevent dry eyes and back\npain, I create a macOS app'}
+          </p>
+          <p className={styles.any}>
+            by cswenshuo 1 hours ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Show
+          </p>
+          <p className={styles.any}>
+            {'Gaiman language for Web-based\nTerminal applications'}
+          </p>
+          <p className={styles.any}>
+            by jcubic 1 hour ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Show
+          </p>
+          <p className={styles.any}>
+            {'Grid.js - Advanced table library\nthat works everywhere(2020)\n(gridjs.io)'}
+          </p>
+          <p className={styles.any}>
+            by ddtailor 12 minuts ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Show
+          </p>
+          <p className={styles.any}>
+            {'An interactive tutorial on\nsymmetrick encryption\n(easylang.online)'}
+          </p>
+          <p className={styles.any}>
+            by ddtailor 12 minuts ago
+          </p>
+        </section>
+        <p>More Show HN</p>
+
+        <h1 className={styles.any}>
+          Jobs HN
+        </h1>
+        <section>
+          <p className={styles.any}>
+            Job
+          </p>
+          <p className={styles.any}>
+            {'The Muse (YC W12) Is Hiring a\nSenior Software Engineer\n(themus.com)'}
+          </p>
+          <p className={styles.any}>
+            2 hours ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Job
+          </p>
+          <p className={styles.any}>
+            {'Stacker(YC S20)Is Hiring a\nHead of Engineering\n(workable.com)'}
+          </p>
+          <p className={styles.any}>
+            7 hour ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Job
+          </p>
+          <p className={styles.any}>
+            {'Freshpaint (YC S19) is hiring\nengineers to build real-time data\ningestion infra(ashbyhq.com)'}
+          </p>
+          <p className={styles.any}>
+            17 hours ago
+          </p>
+        </section>
+
+        <section>
+          <p className={styles.any}>
+            Job
+          </p>
+          <p className={styles.any}>
+            {'Basis (YC S21) Is hiring devs to\nhelp build Figma for data\n(workatastartup.com)'}
+          </p>
+          <p className={styles.any}>
+            17 hours ago
+          </p>
+        </section>
+        <p>More Jobs HN</p>
       </main>
 
       <footer className={styles.footer}>
