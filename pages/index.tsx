@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Hacker News Api</title>
+        <title>Hacker News API</title>
         <meta name="description" content="Hacker News Api" />
       </Head>
 
@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         <p className={styles.any}>
           story
         </p>
-        <p className={styles.any}>
+        <p className={styles.emhpasisarticle}>
           {`FDA urges patch of Illumina devices with three\n
           critical flaws ranked 10 in severity(scmagazine.com)`}
         </p>
